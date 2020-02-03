@@ -1,3 +1,5 @@
+//Igual en caso de que lo haya sacado por internet estaría bien que colocara el link, lo cual haría que no fuera necesario comentarlo
+//Me parece muy  útil esto!!
 var spanishContent = [];
 var spanishParents = [];
 
