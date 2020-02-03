@@ -1,3 +1,5 @@
+//Código muy ordenado y limpio, falta comentar un poco.
+
 const data = {
   nodes: [
     { id: 1, name: 'react', family: 1 },
@@ -118,17 +120,7 @@ const node = svg
   .attr('fill', d => randomBaseColor(d.family))
   .call(drag(simulation));
 
-// const node = svg
-//   .append('g')
-//   .selectAll('g')
-//   .data(data.nodes)
-//   .join('g')
-//   .attr('class', 'node')
-//   .append('circle')
-//   .attr('stroke', '#fff')
-//   .attr('stroke-width', 1)
-//   .attr('fill', d => randomBaseColor(d.family))
-//   .call(drag(simulation));
+//Eliminar código no usado
 
 var linkText = svg
   .selectAll('.node')
