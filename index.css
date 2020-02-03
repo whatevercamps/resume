@@ -9,10 +9,6 @@ body {
 .alternative {
   font-family: 'Lato', sans-serif;
 }
-/* 
-.card .card-body * {
-  color: #eeeeee;
-} */
 
 .card {
   background-color: rgba(0, 0, 0, 0);
@@ -218,6 +214,7 @@ hr.comment::after {
   color: #313440;
 }
 
+/* colors-palette*/
 .colorsPalette {
   color: #f5d67b;
   color: #405659;
@@ -232,6 +229,7 @@ hr.comment::after {
   color: #5c5e67;
 }
 
+/* babel-colors*/
 .babelColors {
   color: #1b2b34;
   color: #cdd3de;
@@ -245,6 +243,7 @@ hr.comment::after {
   color: #6699cc;
 }
 
+/* atom-colors*/
 .atomColors {
   color: #a6a9bc;
   color: #313440;
@@ -513,6 +512,6 @@ input[type='number']::-webkit-outer-spin-button {
 }
 .hr-or {
   height: 1px;
-  margin-top: 0px !important;
+  margin-top: 0px !important; /*No se que tan factible sea usar important*/
   margin-bottom: 0px !important;
 }
