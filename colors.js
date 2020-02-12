@@ -1,3 +1,6 @@
+//Muy limpio y ordenado el código, yo agragaría una descripción de lo hace colors.js, pero de resto perfecto.
+//Ejm: Se usa para darle color a los SVG (no entiendo muy bien el código) 
+
 var select = function(s) {
   return document.querySelectorAll(s);
 };
