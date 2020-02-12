@@ -1,0 +1,6 @@
+Es mejor usar dashes (-) en vez de underscored (_), no es algo que afecte pero igual puede ser útil en alguna otra ocasión.
+Me da una impresión desordenada ver tantos archivos tan distintos, se me dificulta un poco más buscar, yo haría folders.
+Por ejemplo, la carpeta images para guardar los .svg.
+Según: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+
+
